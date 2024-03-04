@@ -1,0 +1,15 @@
+{
+  "name": "Audio Player",
+  "author": "Quentin Widlocher",
+  "version": "1.0.0",
+  "icon": "/vite.svg",
+  "description": "Play audio",
+  "manifest_version": 1,
+  "action": {
+    "title": "Audio Player",
+    "icon": "/vite.svg",
+    "popover": "/",
+    "height": 800,
+    "width": 600
+  }
+}
